@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- PROJECT LOGO -->
 
 <p align="center">
@@ -252,3 +253,6 @@ If you find our work useful in your research please consider citing our paper:
 }
 ```
 
+=======
+# self-supervised-lmcf
+>>>>>>> 6e86e0cfcec52f4986f6ab884e84ed9aaa027461
