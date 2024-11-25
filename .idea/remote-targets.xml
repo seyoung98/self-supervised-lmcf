@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="cvlab@192.168.77.54:22" type="ssh/sftp" uuid="4c7c1fb2-00dd-40f8-be41-328410f359cc">
+        <config>
+          <option name="projectRootOnTarget" value="$USER_HOME$/Lite-Mono-Comp-test2" />
+          <option name="serverName" value="cvlab@192.168.77.54:22 password" />
+          <option name="useRsync" value="true" />
+        </config>
+      </target>
+    </targets>
+  </component>
+</project>
